@@ -11,3 +11,8 @@ body {
   overflow: hidden;
   margin: 0;
 }
+.kinetic {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
